@@ -1,7 +1,6 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -14,5 +13,15 @@
     "watch": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjbmarek/Star-wars.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sjbmarek/Star-wars/issues"
+  },
+  "homepage": "https://github.com/sjbmarek/Star-wars#readme",
+  "description": ""
 }
